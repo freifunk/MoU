@@ -41,7 +41,9 @@ Das Pico Peering Agreement ist die Grundlage unserer Netzwerke. Folgende Grunds�
 * Die Nutzer*innen sind selbst für Ende-zu-Ende-Verschlüsselung ihres Traffics und für Anonymisierung verantwortlich.
 
 Wir achten bei der Gestaltung unserer Netze auf Dezentralität. Deshalb ist es nicht in unserem Sinne, dass eine kleine  Admingruppe oder Einzelpersonen per Fernzugriff die Kontrolle über ein ganzes (Teil-)Netz haben. Die Knotenbetreiber*innen haben die Wahl, sich für Fernwartung zu entscheiden. Eingriffe in die Knoten, z.B. Firmwareupdates oder andere Fernwartungsarbeiten, müssen immer mit dem ausdrücklichen Einverständnis der jeweiligen Betreibenden geschehen. Knotenbetreiber*innen können sich ferner entscheiden, ob sie auch Internetzugang  bereitstellen wollen, sei es für die Teilnehmenden im Meshnetz, sei es für die Öffentlichkeit. Es ist uns dabei wichtig, dass Freifunk nicht in erster Linie als “Provider für kostenlosen Internetzugang” wahrgenommen  wird. Entscheidungen über Releases werden in den lokalen Communities gemeinschaftlich getroffen.
-Die Firmware für unsere Knoten basiert auf freier Software. Weiterentwicklungen veröffentlichen wir ebenso als FLOSS. Durch eine möglichst gute Dokumentation sollen Betreiber*innen in die Lage versetzt werden, die Firmware selbst weiterzuentwickeln oder Anregungen zur Verbesserung beizusteuern. Die Offenheit schafft Vertrauen in die Software.
+Die Firmware für unsere Knoten basiert auf freier Software. Weiterentwicklungen veröffentlichen wir ebenso als FLOSS [1]. Durch eine möglichst gute Dokumentation sollen Betreiber*innen in die Lage versetzt werden, die Firmware selbst weiterzuentwickeln oder Anregungen zur Verbesserung beizusteuern. Die Offenheit schafft Vertrauen in die Software.
+
+[1] Free Libre Open Source Software, Vgl. https://www.gnu.org/philosophy/floss-and-foss.en.html
 
 ### Soziale Prinzipien
 
