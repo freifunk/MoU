@@ -1,49 +1,47 @@
 # Freifunk Memorandum of Understanding
 
-Freifunk ist nach über 10 Jahren sehr erfolgreich, bekannt und verbreitet. Wir sehen jedoch die ursprünglichen Ideen und Ziele von Freifunk nicht (mehr) von allen Communities bzw. Communitymitgliedern berücksichtigt. Es geht uns nicht darum, Communities auszuschließen, die sich mit dem hier formulierten Selbstverständnis nicht identifizieren. Wir sind aber an einer grundsätzlichen Auseinandersetzung über das interessiert, was wir hier unter dem Label Freifunk gemeinsam tun. Dieser Textentwurf wurde von einer Gruppe aus dem direkten Umfeld des Fördervereins Freie Netzwerke e.V. verfasst. Er ist als Verständigungsgrundlage gedacht und soll alle Communities dazu ermutigen, die angesprochenen Punkte zu reflektieren. Wozu machen wir Freifunk? Welche Ideen stecken dahinter? Welche Ziele verfolgen wir? Nach welchen Prinzipien entscheiden und handeln wir? Das Ziel dieses Textes ist es, ein Verständnis zu entwickeln, das alle Individuen und Gruppen, die unter dem Label Freifunk agieren, verbindet.
+After 10 years Freifunk is quite successful, well known and widespread. However we don't see that the original ideas and goal of Freifunk are still taken into consideration by all communities or all community members. Our main concern is not to exclude communities which don't identify themselves with the hereby stated self-understanding. But we are interested in a basic dispute about what we are doing here jointly under the label Freifunk. This draft was written by a group associated with the Förderverein Freie Netzwerke e.V. It is meant to be a basic principle of understanding and intends to encourage all communities to reflect on the stated topics. Why do we engage in Freifunk? Which ideas are behind it? Which goals do we pursuit? According to which principle do we make decisions and take action? It is the goal of this ext, to develop an understanding which connects all individuals and groups who act under the label Freifunk.
 
-## Präambel
+## Preamble
 
-Freie (Funk-)Netze werden von vielen lokalen Initiativen aufgebaut und angeboten. Die Benutzer*innen sind auch gleichzeitig die Betreiber*innen der Computernetzwerke. Sie schaffen ein "Selbstmachnetz", indem sie Wohnungen, Häuser, Straßenzügen, Stadtteile, Dörfer oder ganze Städte selbst vernetzen. Ein Freifunk-Netz ist dezentral aufgebaut und wird von vielen Individuen betrieben. Diese dezentrale Organisationsstruktur fördert bewusst lokale Aktivitäten, statt sie von einer übergeordneten Entität steuern lassen zu wollen. "Frei" bedeutet dabei, diese Netze öffentlich und anonym zugänglich zu machen, sie nicht kommerziell zu betreiben oder auszuwerten und die darin transportierten Informationen nicht einzusehen, zu verändern oder zu zensieren. Obwohl sich Freifunk vorrangig auf WLAN-Netze bezieht, ist der Begriff "Freie Netzwerke" breiter zu sehen. Er orientiert sich unter anderem an der freenetworks.org Definition.
-Bei aller Dezentralität halten wir es für sinnvoll und wichtig, uns über die Grundsätze und Prinzipien des Projektes Freifunk einig zu sein, damit wir gemeinsam agieren und uns in unserem Handeln gegenseitig unterstützen können.
-## Ziele von Freifunk
+Free (wireless) networks are build and provided by many local initiatives. The users are simultaneously operators of the computer networks. They create "do it yourself" network by self-reliantly connecting apartments, houses, streets of houses, districts, villages or whole cities. A Freifunk-network is built in a decentralized way and is operated by many individuals. This decentralized structure of organization promotes deliberately local activities instead of wanting to be being governed by a higher entity. "Frei" (free) stands for making these networks open and anonymously accessible, they are to be operated in a non-commercial way and are not analyzed and the thereby contained information is not to be inspected, modified or censored. Although Freifunk refers primarily to WLAN-networks, the term "freie Netzwerke" should be taken into a broader context. It is oriented among others by the freenetworks.org definition. Despite all decentralization we reasonable and important to come to a common understanding on the basic principles of the undertaking Freifunk, in order to act jointly and support each other in our activities.
 
-Obwohl die Nutzung technischer Netzwerke für sehr viele Menschen längst zum Alltag geworden ist, werden die dahinter liegenden Macht- und Wirkmechanismen unserer Meinung nach häufig nicht ausreichend reflektiert. Freifunk hat sich unter anderem zum Ziel gesetzt, ein Bewusstsein für diese Zusammenhänge in der Gesellschaft zu entwickeln, den freien Zugang zu öffentlichen Netzwerken zu fördern und dabei Anregungen für ein selbstbestimmtes Handeln zu geben. Dabei wollen wir die Bedürfnisse unterschiedlicher gesellschaftlicher Gruppen einbeziehen. Diversität und ein breites Spektrum an Ideen verstehen wir als wichtige Grundlagen, um diese Ziele zu erreichen. Wir möchten alle Teilnehmenden (User*innen/Knotenbesitzer*innen) ermutigen, selbst Hand anzulegen und sie dabei unterstützen, sich mit der Materie vertraut zu machen. Uns ist bewusst, dass dies ein aufwändiger Lernprozess ist. Wir möchten aber vermeiden, dass sich (Wissens-)Hierarchien dadurch fortsetzen und verstärken, dass sich Teilnehmende im Freifunknetz einfach “beliefern” lassen wollen. Unserer Ansicht nach führt dies nämlich mit dazu, dass die Grundideen des Selbstmachnetzes verloren gehen.
-Als Freifunker*innen beteiligen wir uns am politischen Prozess, um die rechtlichen Voraussetzungen für freie Netze zu schaffen. Die Freifunkbewegung ist dabei überparteilich.
+## goals of Freifunk
 
-## Prinzipien von Freifunk
+The use of technical networks has become a everyday occurrence long ago, nevertheless the underlying power and action mechanism are often not being reflected on sufficiently. Freifunk has set one of it's goal to be the creation of an awareness of these contexts in the broader society and to promote the free and open access to give impulses for a self-determined actions. Thereby we would like to include the needs of distinct societal groups. We consider diversity and a broad spectrum of ideas to be an important foundation to reach these goals. We would like to encourage all participants to take matters in their own hands and support them to get familiarized with the subject matter. We are aware of the fact that this is an elaborate learning process. However we would like to avoid the continuation of knowledge-hierarchies by the desire of participant to be merely supplied. According to our view this leads to the erosion of the basic idea of a "do it yourself" network. Being Forefingers we participate in the political process getting the judicial preconditions for free networks. Hereby the Freifunk movement is above party lines
 
-Es ist unser Anliegen, das soziale Community-Building und die technische Umsetzung freier Netze in den Communities nach ähnlichen Prinzipien zu gestalten: dezentral, mit möglichst wenigen/flachen Hierarchien und dennoch abgesprochen.
-Viele unserer Prinzipien wurden bereits an anderen Stellen formuliert. Als Freifunker*innen bekennen wir uns zu den folgenden bereits existierenden Dokumenten:
+## principals of Freifunk
+
+It is our wish to have the social community-building and the technical implementation of free networks in the communities according to similar principles: decentralized, with as few and as shallow hierarchies as possible, yet with a common agreements.
+Many of our principles have already been formulated elsewhere. Als Freifunkers we commit to the following already existing documents:
 
 * Pico Peering Agreement
-* Unsere Vision:
+* Our Vision:
 * Free Culture Definition
 * Community Wireless Definition
 * free networks definition
-* Fernmeldegeheimnis (GG Art. 10,1)
-* Prinzip der Datensparsamkeit und Datenvermeidung (BDSG § 3a
-* Wir speichern nicht!
-* Die Hackerethik des Chaos Computer Clubs (CCC) ist auf freie Netze übertragbar.
-* Die Unvereinbarkeitserklärung des CCC “Farbe bekennen gegen rechts”  , v.a. der Abschnitt “Die Erklärung”
+* secrecy of telecommunications (GG Art. 10,1)
+* pinciple of Datensparsamkeit (data scarsity) and Datenvermeidung (data avoidance) (BDSG § 3a
+* We do not log!
+* The hacker ethics of the Chaos Computer Clubs (CCC) is transferable to free networks.
+* The declaration of the incompatibility of the CCC “acknowledge color against fascism”  , especially the paragraph “Die Erklärung”
 
-### Technische Prinzipien
+### technical principles
 
-Das Pico Peering Agreement ist die Grundlage unserer Netzwerke. Folgende Grundsätze machen für uns ein freies Netz aus:
+The Pico Peering Agreement is the basis of our networks. For us the following pillars constitute a free network:
 
-* Unsere Knoten bilden untereinander ein Maschennetzwerk. Mit Freifunk-Netz meinen wir dieses vermaschte Netz, das zwischen den Routern entsteht. Es endet dort, wo das Internet beginnt, also dort, wo ein Router den Datenverkehr ins Internet leitet. Und es endet dort, wo das private Heimnetz beginnt.
-* Wir gestalten unsere Netze offen und öffentlich: Alle können eigene Knoten betreiben und dadurch das Netz erweitern.
-* Unser Netz ist anonym zugänglich, weder Nutzer*innen noch Knotenbetreiber*innen sollen sich registrieren oder anmelden um mitzumachen.
-* Unser Netz ist nicht kommerziell.
-* In unserem Netz wird nicht zensiert.
-* Wir halten uns an das Fernmeldegeheimnis.
-* Datenschutz und Datensparsamkeit: Wir speichern weder Verbindungs- noch Bestandsdaten. Wir speichern keine personenbezogenen Daten. Die Angabe von Emailadressen zur Kontaktaufnahme und Geokoordinaten zur Darstellung auf der Karte ist freiwillig.
-* Die Nutzer*innen sind selbst für Ende-zu-Ende-Verschlüsselung ihres Traffics und für Anonymisierung verantwortlich.
+* Our nodes build a mesh-network among on another. When talking about freifunk-network we refer to this mesh network, which is being created between the routers. It ends where the internet begins, that is where a router routes the data traffic into the internet. And it ends where the private home-network begins.
+* We design our networks to be open and public: everybody can operate a node and thereby extend the network.
+* Our network is accessible anonymously, neither users nor node operators should register to participate.
+* Our network is non-commercial.
+* Nobody censors in our network.
+* We abide by the secrecy of telecommunications law.
+* Privacy protection and data scarsity: We log neither connection nor inventory data. We do not save person related data. The disclosure of email-addresses for the purpose of making contact as well as coordinates on the map are optional.
+* Users are themselves responsible for end-to-end encryption and anonymizing their traffic.
 
-Wir achten bei der Gestaltung unserer Netze auf Dezentralität. Deshalb ist es nicht in unserem Sinne, dass eine kleine  Admingruppe oder Einzelpersonen per Fernzugriff die Kontrolle über ein ganzes (Teil-)Netz haben. Die Knotenbetreiber*innen haben die Wahl, sich für Fernwartung zu entscheiden. Eingriffe in die Knoten, z.B. Firmwareupdates oder andere Fernwartungsarbeiten, müssen immer mit dem ausdrücklichen Einverständnis der jeweiligen Betreibenden geschehen. Knotenbetreiber*innen können sich ferner entscheiden, ob sie auch Internetzugang  bereitstellen wollen, sei es für die Teilnehmenden im Meshnetz, sei es für die Öffentlichkeit. Es ist uns dabei wichtig, dass Freifunk nicht in erster Linie als “Provider für kostenlosen Internetzugang” wahrgenommen  wird. Entscheidungen über Releases werden in den lokalen Communities gemeinschaftlich getroffen.
-Die Firmware für unsere Knoten basiert auf freier Software. Weiterentwicklungen veröffentlichen wir ebenso als FLOSS. Durch eine möglichst gute Dokumentation sollen Betreiber*innen in die Lage versetzt werden, die Firmware selbst weiterzuentwickeln oder Anregungen zur Verbesserung beizusteuern. Die Offenheit schafft Vertrauen in die Software.
+When designing our networks we pay attention to decentrality. Therefore a small admin group or individual persons having control over a whole (sub)network does not reflect our thinking. Node operators have the to make the decision whether to chose remote maintenance. Interventions on the nodes, for example firmware upgrades or other remote administration work have always been done with explicit agreement of the respective operators. Node operators can furthermore decide weather they would like to provide internet access, be it for the participants of the mesh network or for the public. Hereby it is important that Freifunk is not to be perceived as "provider for gratis internet access". Decisions about releases in the local communities are made jointly. The firmware for our nodes is based on free software. We publish further developments likewise as FLOSS. Having a best possible documentation the operator should be enabled to extend the firmware themselves or give suggestions for improvements. Openness creates confidence in the software.
 
-### Soziale Prinzipien
+### Social principles
 
 Ein angenehmes soziales Klima ist uns in unseren Communities wichtig. Bei Freifunk wollen wir erreichen, dass sich Menschen unabhängig von Geschlecht, sexueller Orientierung, Herkunft, Glauben, Aussehen, Alter und anderer (tatsächlicher oder zugeschriebener) Merkmale in den Communities einbringen und wohlfühlen können. Der Umgang miteinander soll respektvoll sein; neue Interessierte sind uns stets willkommen. Wir dulden keinerlei Diskriminierungen. Das bedeutet für uns: Wir haben weder Platz für Nazis, noch für Rassismus, Sexismus oder andere Formen von menschenverachtendem Verhalten.
 "Mitmachen", das kann nach unserem Verständnis mindestens alles Folgende bedeuten: Freie Netze nutzen und selbst (mit)betreiben, sich in lokalen Communities sozial vernetzen, in der lokalen oder überregionalen Freifunk-Gemeinschaft mit den jeweils eigenen Fähigkeiten aktiv werden. Mitmachen beschränkt sich keinesfalls auf technische Fähigkeiten. Alle Formen von Engagement sind explizit willkommen und werden als Beitrag zur Community begriffen.
