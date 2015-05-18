@@ -20,16 +20,16 @@ It is our wish to have the social community building and the technical implement
 
 Many of our principles have already been formulated elsewhere. As Freifunkers we commit to the following existing documents:
 
-* Pico Peering Agreement
-* "Our Vision"
-* Free Culture definition
-* Community Wireless definition
-* Free Networks definition
-* secrecy of telecommunications (GG Art. 10,1)
-* principle of Datensparsamkeit (minimizing data collection) and Datenvermeidung (data avoidance) (BDSG § 3a)
-* "Wir speichern nicht!" (We do not keep logs!)
-* the hacker ethics of the Chaos Computer Club (CCC), which is transferable to free networks
-* the CCC's declaration of non-acceptance of discrimination and fascism, "Farbe erklären gegen Rechts", in particular the section "Die Erklärung"
+* [Pico Peering Agreement](http://www.picopeer.net/PPA-en.html)
+* ["Our Vision](http://freifunk.net/en/what-is-it-about/our-vision/)
+* [Free Culture definition](https://en.wikipedia.org/wiki/Free_Culture_(book))
+* [Community Wireless definition](http://wiki.freifunk.net/WirelessCommons#English)
+* [Free Networks definition](http://freenetworks.org/)
+* [secrecy of telecommunications (GG Art. 10,1](https://dejure.org/gesetze/GG/10.html)
+* [principle of Datensparsamkeit (minimizing data collection) and Datenvermeidung (data avoidance) (BDSG § 3a)](https://dejure.org/gesetze/BDSG/3a.html)
+* ["Wir speichern nicht!" (We do not keep logs)](http://www.wirspeichernnicht.de/)
+* the [hacker ethics of the Chaos Computer Club (CCC)](http://www.ccc.de/de/hackerethik) which is transferable to free networks
+* the CCC's declaration of non-acceptance of discrimination and fascism, ["Farbe erklären gegen Rechts"](http://www.ccc.de/updates/2005/unvereinbarkeitserklaerung), in particular the section "Die Erklärung"
 
 ### Technical principles
 
