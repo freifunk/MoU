@@ -49,17 +49,17 @@ The daily use of communication networks has become fundamental to every area of 
 
 Freifunk has declared their goals to be:
 * to promote the understanding of networks and network technology ("Network/Code Literacy") as well as their impact on society, by all sectors of the population,
-* to encourage the population at large to actively engage in the research, design and creation of free (wireless) networks in a "do it yourself" fashion
+* to encourage the population at large to actively engage in the research, design and creation of free (wireless) networks in a do-it-yourself fashion
 * to make all our technical knowledge and implementations publicly available and allow others to build on it
 * and to take political action in order to achieve and protect the legal support necessary to run free networks.
 
 ### Principles of Freifunk
 
-Creation of "do it yourself" networks is a process. We are aware that we may not fully attain every goal in this process. Therefore we should regularly reflect critically and discuss our approaches. To us, learning and improvement of social and technological structures are of utmost importance.
+Creation of do-it-yourself networks is a process. We are aware that we may not fully attain every goal in this process. Therefore we should regularly reflect critically and discuss our approaches. To us, learning and improvement of social and technological structures are of utmost importance.
 
 We are committed to promoting a respectful, inclusive environment - necessary for learning and collaborating - and do not tolerate discrimination of any kind. We consider diversity of ideas to be an important foundation to reach our goals. Anyone willing to support the Freifunk movement is welcome to join us, independently of their social and technical background, provided they also follow our principles of inclusiveness and non-discrimination.
 
-We would like to avoid hierarchies, in particular knowledge hierarchies, caused by the desire of participants to merely consume the services of communication networks. According to our view, this leads to the erosion of the basic idea of a "do it yourself" network. Therefore we encourage and support every interested entity in getting familiarized with the ideas and technical aspects of Freifunk, even thought we are aware this can be an elaborate learning process. To facilitate this, all our knowledge and software is to be released to the public without restrictions. We aim at providing very good documentation that enables anyone to extend our systems or suggest improvements, under the motto that openness creates confidence.
+We would like to avoid hierarchies, in particular knowledge hierarchies, caused by the desire of participants to merely consume the services of communication networks. According to our view, this leads to the erosion of the basic idea of a do-it-yourself network. Therefore we encourage and support every interested entity in getting familiarized with the ideas and technical aspects of Freifunk, even thought we are aware this can be an elaborate learning process. To facilitate this, all our knowledge and software is to be released to the public without restrictions. We aim at providing very good documentation that enables anyone to extend our systems or suggest improvements, under the motto that openness creates confidence.
 
 Politically, the Freifunk movement is non-partisan and works across party lines.
 
