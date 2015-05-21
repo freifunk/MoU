@@ -34,7 +34,7 @@ In addition to the ideals of free networks, and based on the [Picopeering Agreem
   * no user or group of users can control other users' devices, and thus another part of the network
   * however, operators have the choice to allow remote maintenance
   * interventions on the nodes, for example firmware upgrades or other remote administration work, must be done with explicit agreement of the respective operators
- 4. Operated in a non-commercial way
+ 4. Operated in a non-commercial way:
   * usage of the network is free of charge
   * [insert your other views here - I was not at the discussion on commercial issues, so feel free to complete this point]
  5. Privacy-preserving:
