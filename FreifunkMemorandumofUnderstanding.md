@@ -20,16 +20,16 @@ Es ist unser Anliegen, das soziale Community-Building und die technische Umsetzu
 
 Viele unserer Prinzipien wurden bereits an anderen Stellen formuliert. Als Freifunker\*innen bekennen wir uns zu den folgenden bereits existierenden Dokumenten:
 
-* Pico Peering Agreement
-* Unsere Vision:
-* Free Culture Definition
-* Community Wireless Definition
-* free networks definition
-* Fernmeldegeheimnis (GG Art. 10,1)
-* Prinzip der Datensparsamkeit und Datenvermeidung (BDSG § 3a
-* Wir speichern nicht!
-* Die Hackerethik des Chaos Computer Clubs (CCC) ist auf freie Netze übertragbar.
-* Die Unvereinbarkeitserklärung des CCC “Farbe bekennen gegen rechts”  , v.a. der Abschnitt “Die Erklärung”
+* [Pico Peering Agreement](http://www.picopeer.net/PPA-de.html)
+* Unsere [Vision](http://freifunk.net/worum-geht-es/vision/)
+* [Free Culture Definition](https://de.wikipedia.org/wiki/Freie_Kultur)
+* [Community Wireless Definition](http://wiki.freifunk.net/WirelessCommons#Deutsch)
+* [freenetworks.org Definition](http://freenetworks.org/)
+* [Fernmeldegeheimnis (GG Art. 10,1)](https://dejure.org/gesetze/GG/10.html)
+* [Prinzip der Datensparsamkeit und Datenvermeidung (BDSG § 3a)](https://dejure.org/gesetze/BDSG/3a.html)
+* [Wir speichern nicht!](http://www.wirspeichernnicht.de/)
+* die [Hackerethik des Chaos Computer Clubs (CCC)](http://www.ccc.de/de/hackerethik), auf freie Netze übertragen
+* die Unvereinbarkeitserklärung des CCC [„Farbe bekennen gegen rechts“](http://www.ccc.de/updates/2005/unvereinbarkeitserklaerung), v.a. der Abschnitt „Die Erklärung“
 
 ### Technische Prinzipien
 
