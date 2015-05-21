@@ -14,7 +14,7 @@ The goal of this text is to develop an understanding which connects all individu
 
 A free network is a computer network that allows free local transit. In other words, information flowing inside the network does not suffer interference by censorship, prioritization or any other actions, except those required to transport the traffic from the source to its destination. A free network is defined by what its users can do with it, rather than the particular technology it is built on.
 
-## Freifunk as a movement of do-it-yourself wireless free networks
+## Freifunk as a movement of do-it-yourself free wireless networks
 
 The goal of Freifunk is, in a nutshell, to enable local communities to build and operate free wireless networks.
 
