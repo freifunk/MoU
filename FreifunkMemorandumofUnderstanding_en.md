@@ -22,7 +22,7 @@ Freifunk allows users of a network to be simultaneously its operators: they run 
 
 This means that a Freifunk network is built in a decentralized way and is operated by many individuals. This decentralized structure of organization deliberately promotes local activities instead of depending on a higher entity.
 
-In addition to the ideals of free networks, and based on the [Picopeering Agreement](http://www.picopeer.net/PPA-en.html)m Freifunk networks also aim at being:
+In addition to the ideals of free networks, and based on the [Picopeering Agreement](http://www.picopeer.net/PPA-en.html), Freifunk networks also aim at being:
  
  1. Open and public:
   * everybody can operate a node and thereby extend the network
