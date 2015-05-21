@@ -38,7 +38,7 @@ In addition to the ideals of free networks, and based on the [Picopeering Agreem
   * usage of the network is free of charge
   * [insert your other views here - I was not at the discussion on commercial issues, so feel free to complete this point]
  5. Privacy-preserving:
-  * we log neither connection nor inventory data
+  * we log neither connection information, nor data in transit
   * we do not save personally identifiable data except the one explicitly provided by operators to facilitate network maintenance, such as contact information and geographical coordinates
 
 It follows that a Freifunk network ends where the Internet or any private network (e.g. a home network) begins. Traffic entering such networks is not Freifunk traffic. Node operators can, however, decide whether they would like to provide Internet access, be it for the participants of the mesh network or for the public. When doing so, it is important that Freifunk should not be perceived as a "provider of free-of-charge Internet access".
