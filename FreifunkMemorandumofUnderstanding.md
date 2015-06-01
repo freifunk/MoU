@@ -17,7 +17,7 @@ Das Ziel dieses Textes ist es ein Verständnis zu entwickeln, das alle Individue
 
 Ein freies Netz ist ein Datennetz, das freien, lokalen Transit ermöglicht. Anders gesagt: **Datenströme innerhalb des Netzes werden nicht zensiert, priorisiert oder auch anderweitig behindert, ausgenommen der für den Transport von der Quelle zum Ziel nötigen Maßnahmen.** Ein freies Netz definiert sich durch das, was die Teilnehmer damit tun können; nicht etwa durch die Technologie, mit der es gebaut wurde.
 
-## Freifunk als eine Bewegung der do-it-yourself freien drahtlos Netze
+## Freifunk als eine Bewegung der freien drahtlosen Mitmach-Netze
 
 Kurz gesagt, das Ziel von Freifunk ist es, lokalen Communities zu ermöglichen ein freies, drahtloses Netz aufzubauen und zu betreiben.
 
@@ -48,11 +48,11 @@ Daraus folgt, dass ein Freifunk Netz dort endet, wo das Internet oder ein privat
 
 ### Ziele von Freifunk
 
-Der Aufbau eines do-it-yourself Netzes ist ein Prozess. Uns ist bewusst, dass wir nicht alle Ziele vollständig erreichen können. Deswegen sollen wir regelmäßig kritisch reflektieren und unsere Ansätze diskutieren. Für uns ist das Kennenlernen und die Verbesserung sozialer und technologischer Strukturen von größter Bedeutung.
+Der Aufbau eines Freifunk Netzes ist ein Prozess. Uns ist bewusst, dass wir nicht alle Ziele vollständig erreichen können. Deswegen sollen wir regelmäßig kritisch reflektieren und unsere Ansätze diskutieren. Für uns ist das Kennenlernen und die Verbesserung sozialer und technologischer Strukturen von größter Bedeutung.
 
 Wir sind engagiert eine respektvolle, für alle offene Umgebung zu fördern - notwendig für das Lernen und Zusammenarbeiten - und tolerieren keine Diskriminierung jedweder Art. Wir halten Ideenvielfalt für eine wichtige Grundlage zum Erreichen unserer Ziele. Jeder, der gewillt ist Freifunk zu unterstützen ist bei uns willkommen, ungeachtet seines sozialen oder technischen Hintergrundes, sofern er unseren Prinzipien der Offenheit und nicht-Diskriminierung folgt.
 
-Wir möchten Hierarchien vermeiden, insbesondere Wissenshierarchien, die durch das Bedürfnis von Teilnehmern, die Dienste des Netze lediglich zu konsumieren, entstehen. Unserer Ansicht nach führt dies zur Erosion der grundlegenden Ideen eines do-it-yourself Netzes. Deswegen ermutigen und unterstützen wir Interessenten sich mit den Ideen und technischen Aspekten von Freifunk vertraut zu machen, auch wenn uns bewusst ist, dass dies ein umfangreicher Lernprozess sein kann. Um dies zu erleichtern veröffentlichen wir all unser Wissen und unsere Software ohne Beschränkungen. Wir beabsichtigen sehr gute Dokumentation bereitzustellen, dies es jeden ermöglicht unsere Systeme zu erweitern oder Verbesserungen beizutragen; unter dem Motto, dass Offenheit Vertrauen erzeugt.
+Wir möchten Hierarchien vermeiden, insbesondere Wissenshierarchien, die durch das Bedürfnis von Teilnehmern, die Dienste des Netze lediglich zu konsumieren, entstehen. Unserer Ansicht nach führt dies zur Erosion der grundlegenden Ideen eines Mitmachnetzes. Deswegen ermutigen und unterstützen wir Interessenten sich mit den Ideen und technischen Aspekten von Freifunk vertraut zu machen, auch wenn uns bewusst ist, dass dies ein umfangreicher Lernprozess sein kann. Um dies zu erleichtern veröffentlichen wir all unser Wissen und unsere Software ohne Beschränkungen. Wir beabsichtigen sehr gute Dokumentation bereitzustellen, dies es jeden ermöglicht unsere Systeme zu erweitern oder Verbesserungen beizutragen; unter dem Motto, dass Offenheit Vertrauen erzeugt.
 
 Politisch ist die Freifunkbewegung überparteilich.
 
