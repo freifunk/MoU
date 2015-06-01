@@ -1,67 +1,70 @@
 # Freifunk Memorandum of Understanding
 
-After 10 years Freifunk is quite successful, well known, and widespread. However we don't see that the original ideas and goals of Freifunk are still taken into consideration by all communities or all community members. It is not our intention to exclude communities which don't identify with this self-understanding. But we are interested in a basic discourse about what we are doing here jointly under the label Freifunk. This draft was written by a group associated with the Förderverein Freie Netzwerke e.V. It is meant to be a basic understanding and intends to encourage all communities to reflect on the stated topics. Why do we engage in Freifunk? Which ideas are behind it? Which goals do we pursue? According to which principles do we make decisions and take action? It is the goal of this text to develop an understanding which connects all individuals and groups who act under the label Freifunk.
+After 10 years of a growing Freifunk collective, several ideas, concepts and expectations have emerged in many independent communities, some of them apparently unconciliable.
 
-## Preamble
+With this Memorandum of Understanding (MoU) we would like to commit to a common, unifying view on Freifunk shared by all communities. This document is to serve as a basis for all communities to discuss and reflect on the following points:
+* Why do we engage in Freifunk?
+* Which are the ideals behind it?
+* Which goals do we pursue?
+* What principles guide us in our decisions and actions?
 
-Free (wireless) networks are built and provided by many local initiatives. The users are simultaneously operators of the computer networks. They create "do it yourself" networks by self-reliantly connecting apartments, houses, streets of houses, districts, villages, or whole cities. A Freifunk network is built in a decentralized way and is operated by many individuals. This decentralized structure of organization deliberately promotes local activities instead of wanting to be governed by a higher entity. "Frei" (free) stands for making these networks open and anonymously accessible, they are to be operated in a non-commercial way, are not analyzed and the information passing through them is not to be inspected, modified, or censored. Although Freifunk refers primarily to WLAN networks, the term "freie Netzwerke" (free networks) should be seen in a broader context. Among other things, it follows the spirit of the freenetworks.org definition.
+The goal of this text is to develop an understanding which connects all individuals and group who act under the label Freifunk. Despite the independence of the different communities, we think it is reasonable and important to come to a common understanding on the basic principles of Freifunk, in order to act jointly and support each other in our activities.
 
-Despite all decentralization we think it is reasonable and important to come to a common understanding on the basic principles of the undertaking Freifunk, in order to act jointly and support each other in our activities.
+## Preamble - What is a Free Network?
 
-## Goals of Freifunk
+A free network is a computer network that allows free local transit. In other words, information flowing inside the network does not suffer interference by censorship, prioritization or any other actions, except those required to transport the traffic from the source to its destination. A free network is defined by what its users can do with it, rather than the particular technology it is built on.
 
-The use of technical networks has become a everyday occurrence long ago, nevertheless the underlying power and action mechanism are often not being reflected sufficiently. Freifunk has declared its goals to be (among other things) the creation of an awareness of these contexts in the broader society, the promotion of free and open access to public networks, and encouraging self-determined actions. In this process we would like to include the needs of various societal groups. We consider diversity and a broad spectrum of ideas to be an important foundation to reach these goals. We would like to encourage all participants to take matters into their own hands, and would like to support them in getting familiarized with the subject matter. We are aware that this is an elaborate learning process. However, we would like to avoid hierarchies (of knowledge) caused by the desire of participants to merely "consume" the service. According to our view this leads to the erosion of the basic idea of a "do it yourself" network.
+## Freifunk as a movement of do-it-yourself free wireless networks
 
-Being Freifunkers we participate in the political process in order to achieve the legal preconditions for free networks. The Freifunk movement is non-partisan in this respect and works across party lines.
+The goal of Freifunk is, in a nutshell, to enable local communities to build and operate free wireless networks.
 
-## Principles of Freifunk
+Freifunk allows users of a network to be simultaneously its operators: they run wireless devices that self-organize into a communication network, thus connecting buildings, streets, districts or even entire villages and cities.
 
-It is our wish to have the social community building and the technical implementation of free networks in the communities according to common principles: decentralized, with as few and as shallow hierarchies as possible, yet with a common agreement.
+This means that a Freifunk network is built in a decentralized way and is operated by many individuals. This decentralized structure of organization deliberately promotes local activities instead of depending on a higher entity.
 
-Many of our principles have already been formulated elsewhere. As Freifunkers we commit to the following existing documents:
+In addition to the ideals of free networks, and based on the [Picopeering Agreement](http://www.picopeer.net/PPA-en.html), Freifunk networks also aim at being:
+ 
+ 1. Open and public:
+  * everybody can operate a node and thereby extend the network
+  * everyone can use the network and its services
+ 2. Anonymously accessible:
+  * neither users nor operators have to register in order to participate
+  * this does not mean that Freifunk networks anonymize traffic. Users are responsible for end-to-end encryption and anonymizing their traffic if they so wish.
+ 3. Decentralized:
+  * no user or group of users can control other users' devices, and thus another part of the network
+  * however, operators have the choice to allow remote maintenance
+  * interventions on the nodes, for example firmware upgrades or other remote administration work, must be done with explicit agreement of the respective operators
+ 4. Operated in a non-commercial way:
+  * usage of the network is free of charge
+  * [insert your other views here - I was not at the discussion on commercial issues, so feel free to complete this point]
+ 5. Privacy-preserving:
+  * we log neither connection information, nor data in transit
+  * we do not save personally identifiable data except the one explicitly provided by operators to facilitate network maintenance, such as contact information and geographical coordinates
 
-* Pico Peering Agreement
-* "Our Vision"
-* Free Culture definition
-* Community Wireless definition
-* Free Networks definition
-* secrecy of telecommunications (GG Art. 10,1)
-* principle of Datensparsamkeit (minimizing data collection) and Datenvermeidung (data avoidance) (BDSG § 3a)
-* "Wir speichern nicht!" (We do not keep logs!)
-* the hacker ethics of the Chaos Computer Club (CCC), which is transferable to free networks
-* the CCC's declaration of non-acceptance of discrimination and fascism, "Farbe erklären gegen Rechts", in particular the section "Die Erklärung"
+It follows that a Freifunk network ends where the Internet or any private network (e.g. a home network) begins. Traffic entering such networks is not Freifunk traffic. Node operators can, however, decide whether they would like to provide Internet access, be it for the participants of the mesh network or for the public. When doing so, it is important that Freifunk should not be perceived as a "provider of free-of-charge Internet access".
 
-### Technical principles
+### Goals of Freifunk
 
-The Pico Peering Agreement is the basis of our networks. For us the following pillars constitute a free network:
+The daily use of communication networks has become fundamental to every area of our society. Nevertheless, the large majority of the population is not aware of the details of network operation and, in consequence, cannot critically assess the impact of the widespread usage of such networks, in particular of the Internet and cellular networks.
 
-* Our nodes form a mesh network by connecting to each other. The term Freifunk network refers to this mesh network. It ends where the internet begins (i.e., where a router routes the data traffic into the internet) and it ends where the private home network begins.
-* We design our networks to be open and public: everybody can operate a node and thereby extend the network.
-* Our network is anonymously accessible, neither users nor node operators should register to participate.
-* Our network is non-commercial.
-* Our network is uncensored.
-* We abide by the secrecy of telecommunications law.
-* Privacy protection and minimization of data collection: We log neither connection nor inventory data. We do not save personally identifiable data. The disclosure of contact information as well as coordinates on the map are optional.
-* Users are responsible for end-to-end encryption and anonymizing their traffic.
+Freifunk has declared their goals to be:
+* to promote the understanding of networks and network technology ("Network/Code Literacy") as well as their impact on society, by all sectors of the population,
+* to encourage the population at large to actively engage in the research, design and creation of free (wireless) networks in a do-it-yourself fashion
+* to make all our technical knowledge and implementations publicly available and allow others to build on it
+* and to take political action in order to achieve and protect the legal support necessary to run free networks.
 
-When designing our networks we pay attention to decentrality. Therefore a small admin group or individual persons having control over a whole (sub)network does not reflect our thinking. Node operators have the choice to allow remote maintenance. Interventions on the nodes, for example firmware upgrades or other remote administration work, must be done with explicit agreement of the respective operators. Node operators can furthermore decide whether they would like to provide internet access, be it for the participants of the mesh network or for the public. When doing so, it is important that Freifunk should not be perceived as a "provider of free-of-charge internet access". Decisions about releases in the local communities are made jointly. The firmware for our nodes is based on free software. We publish further developments likewise as FLOSS. We aim to provide very good documentation that enables the operator to extend the firmware or suggest improvements. Openness creates confidence in the software.
+### Principles of Freifunk
 
-### Social principles
+Creation of do-it-yourself networks is a process. We are aware that we may not fully attain every goal in this process. Therefore we should regularly reflect critically and discuss our approaches. To us, learning and improvement of social and technological structures are of utmost importance.
 
-A pleasant social climate is important for our communities. Freifunk should be a place that allows individuals to freely participate and feel comfortable regardless of their gender, sexual orientation, origin, beliefs, looks, age, and further (factual or attributed) traits. Social interaction should be respectful; newcomers are always welcome. We do not tolerate any form of discrimination. This means for us: There is no space for nazis, nor racism, sexism or other forms of dehumanizing behavior.
+We are committed to promoting a respectful, inclusive environment - necessary for learning and collaborating - and do not tolerate discrimination of any kind. We consider diversity of ideas to be an important foundation to reach our goals. Anyone willing to support the Freifunk movement is welcome to join us, independently of their social and technical background, provided they also follow our principles of inclusiveness and non-discrimination.
 
-According to our understanding, "participation" can include at least the following: using free networks and operating nodes, socializing in local communities, being active in the local or cross-regional Freifunk community by applying their own abilities. Participation is not limited to technical skills. Every form of contribution is explicitly welcome and is seen as an enrichment of the community.
+We would like to avoid hierarchies, in particular knowledge hierarchies, caused by the desire of participants to merely consume the services of communication networks. According to our view, this leads to the erosion of the basic idea of a do-it-yourself network. Therefore we encourage and support every interested entity in getting familiarized with the ideas and technical aspects of Freifunk, even thought we are aware this can be an elaborate learning process. To facilitate this, all our knowledge and software is to be released to the public without restrictions. We aim at providing very good documentation that enables anyone to extend our systems or suggest improvements, under the motto that openness creates confidence.
 
-We are aware that questions of power arise in our communities: power, attribution of power, and exercise of power are promoted by centralized structures of both social and technological nature. This is one of the reasons why we operate according to the principle of decentrality. Also, questions of power can be related to unequally distributed technical expertise. It is important for us to deal responsibly with this matter and to address and - where it is possible - reduce imbalance of power. We would like to achieve this through maximum knowledge transfer and decentralized structures.
-
-### Proper handling of information and knowledge
-
-We want to learn to build and operate networks instead of having them set up and maintained by "experts". We call that "do it yourself network". We would like to empower and encourage people to actively engage in the creation of infrastructure and to research and design the impact of technology on society. We promote the understanding of networks and network technology ("Network/Code Literacy"), therefore we pass on knowledge at any time and make the code publicly available. We research and experiment with infrastructure, therefore we do not have aspirations for permanent availability.
-
-Creation of "do it yourself" networks is a process. We are aware that we may not fully attain every goal in this process. Therefore we regularly reflect critically, without hostility. We give priority to learning and improvement of social and technological structures.
+Politically, the Freifunk movement is non-partisan and works across party lines.
 
 ### Forms of organization
 
-A Freifunk community is, simply put, a loose affiliation of several individuals. Local associations may support the group when such a registered legal entity is beneficial, e.g., for collecting donations or signing contracts; however, founding your own association is no precondition for Freifunk. Changes are jointly decided by all active participants, not only by members of an association or supporting organisation.
+A Freifunk community is a loose affiliation of several individuals. Local associations may support the community when such a registered legal entity is beneficial, e.g., for collecting donations or signing contracts; however, founding your own association is no precondition for Freifunk. Participation in a local community cannot be restricted to members of any association or supporting organisation.
 
-For the few community-overlapping decisions we establish a "Freifunk Advisory Council", a representation of community members of the different (German) federal states. This council can be called in when there are conflicts between communities.
+For the few community-overlapping decisions we established a "Freifunk Advisory Council", a representation of community members of the different German federal states. This council can be called in when there are conflicts between communities.
