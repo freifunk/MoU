@@ -48,6 +48,16 @@ Daraus folgt, dass ein Freifunk Netz dort endet, wo das Internet oder ein privat
 
 ### Ziele von Freifunk
 
+Obwohl die Nutzung technischer Netzwerke für sehr viele Menschen längst zum Alltag geworden ist, werden die dahinter liegenden Macht- und Wirkmechanismen unserer Meinung nach häufig nicht ausreichend reflektiert.
+
+Freifunk hat sich zum Ziel gesetzt
+* das Verständnis von Datennetzen und Netzwerktechnik sowie deren Auswirkungen auf die Gesellschaft zu fördern,
+* die breite Bevölkerung zu ermutigen, sich aktiv an der Forschung, Entwicklung und Bildung von freien (drahtlosen) Netzen zu beteiligen,
+* alle unsere Fachkenntnisse und Implementierungen öffentlich zugänglich zu machen und anderen zu ermöglichen, darauf auf zu bauen
+* und sich am politischen Prozess zu beteiligen Maßnahmen, um  die rechtlichen Voraussetzungen für freie Netze zu schaffen.
+
+### Grundsätze von Freifunk
+
 Der Aufbau eines Freifunk Netzes ist ein Prozess. Uns ist bewusst, dass wir nicht alle Ziele vollständig erreichen können. Deswegen sollen wir regelmäßig kritisch reflektieren und unsere Ansätze diskutieren. Für uns ist das Kennenlernen und die Verbesserung sozialer und technologischer Strukturen von größter Bedeutung.
 
 Wir sind engagiert eine respektvolle, für alle offene Umgebung zu fördern - notwendig für das Lernen und Zusammenarbeiten - und tolerieren keine Diskriminierung jedweder Art. Wir halten Ideenvielfalt für eine wichtige Grundlage zum Erreichen unserer Ziele. Jeder, der gewillt ist Freifunk zu unterstützen ist bei uns willkommen, ungeachtet seines sozialen oder technischen Hintergrundes, sofern er unseren Prinzipien der Offenheit und nicht-Diskriminierung folgt.
