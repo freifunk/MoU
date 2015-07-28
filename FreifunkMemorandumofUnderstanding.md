@@ -21,7 +21,7 @@ Ein freies Netz ist ein Datennetz, das freien, lokalen Transit ermöglicht. Ande
 
 Kurz gesagt, das Ziel von Freifunk ist es, lokalen Communities zu ermöglichen ein freies, drahtloses Netz aufzubauen und zu betreiben.
 
-Freifunk erlaubt den Teilnehmern eines Netzes gleichzeitig dessen Betreiber zu sein: Sie betreiben drahtlosen Geräte, die sich selbsttätig zu einem Kommunikationsnetz verbinden und somit Gebäude, Straßen, Stadtteile oder gar ganze Dörfer und Städte verbinden.
+Freifunk erlaubt den Teilnehmern eines Netzes gleichzeitig dessen Betreiber zu sein: Sie betreiben drahtlose Geräte, die sich selbsttätig zu einem Kommunikationsnetz verbinden und somit Gebäude, Straßen, Stadtteile oder gar ganze Dörfer und Städte verbinden.
 
 Das bedeutet, dass ein Freifunk Netz dezentral aufgebaut und von vielen Individuen betrieben wird. Diese dezentrale Organisationsstruktur begünstig bewusst lokale Aktivitäten anstelle einer Abhängigkeit von einer übergeordneten Entität.
 
