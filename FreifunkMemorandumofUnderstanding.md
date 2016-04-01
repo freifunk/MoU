@@ -22,7 +22,7 @@ Viele unserer Prinzipien wurden bereits an anderen Stellen formuliert. Als Freif
 
 * [Pico Peering Agreement](http://www.picopeer.net/PPA-de.html)
 * Unsere [Vision](http://freifunk.net/worum-geht-es/vision/)
-* [Free Culture Definition](https://de.wikipedia.org/wiki/Freie_Kultur)
+* [Free Culture Definition](https://de.wikipedia.org/wiki/Freie-Kultur-Bewegung)
 * [Community Wireless Definition](http://wiki.freifunk.net/WirelessCommons#Deutsch)
 * [freenetworks.org Definition](http://freenetworks.org/)
 * [Fernmeldegeheimnis (GG Art. 10,1)](https://dejure.org/gesetze/GG/10.html)
